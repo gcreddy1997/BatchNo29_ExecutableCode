@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="8" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-27T08:02:58 IST" name="Suite" finished-at="2022-04-27T08:04:01 IST" duration-ms="62974">
+    <groups>
+    </groups>
+    <test started-at="2022-04-27T08:02:58 IST" name="Test" finished-at="2022-04-27T08:04:01 IST" duration-ms="62974">
+      <class name="Uibank_Uipath.Uipath_Login_TestCase">
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:13 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:03:17 IST" duration-ms="4284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="loginForExcelData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:17 IST" name="loginForExcelData" data-provider="Login_Credentials" finished-at="2022-04-27T08:03:27 IST" duration-ms="9909" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Welcome!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForExcelData -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:27 IST" name="closingBrowser" finished-at="2022-04-27T08:03:28 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:28 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:03:33 IST" duration-ms="4517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="loginForExcelData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:33 IST" name="loginForExcelData" data-provider="Login_Credentials" finished-at="2022-04-27T08:03:43 IST" duration-ms="10735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ login failed ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForExcelData -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:43 IST" name="closingBrowser" finished-at="2022-04-27T08:03:44 IST" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:44 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:03:49 IST" duration-ms="4391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="loginForExcelData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:49 IST" name="loginForExcelData" data-provider="Login_Credentials" finished-at="2022-04-27T08:03:49 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ login failed ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForExcelData -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:49 IST" name="closingBrowser" finished-at="2022-04-27T08:03:50 IST" duration-ms="937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:50 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:03:54 IST" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="loginForExcelData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:54 IST" name="loginForExcelData" data-provider="Login_Credentials" finished-at="2022-04-27T08:03:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Madhavi@1206]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ username or email is required ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForExcelData -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:54 IST" name="closingBrowser" finished-at="2022-04-27T08:03:55 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:03:55 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:04:00 IST" duration-ms="5009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="loginForExcelData(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:04:00 IST" name="loginForExcelData" data-provider="Login_Credentials" finished-at="2022-04-27T08:04:00 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gcreddy1997@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ login failed ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginForExcelData -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.Uipath_Login_TestCase@21282ed8]" started-at="2022-04-27T08:04:00 IST" name="closingBrowser" finished-at="2022-04-27T08:04:01 IST" duration-ms="859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+      </class> <!-- Uibank_Uipath.Uipath_Login_TestCase -->
+      <class name="Uibank_Uipath.LoginActions_Caller">
+        <test-method is-config="true" signature="intiliaseFiles()[pri:0, instance:Uibank_Uipath.LoginActions_Caller@1de5f259]" started-at="2022-04-27T08:02:57 IST" name="intiliaseFiles" finished-at="2022-04-27T08:02:58 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiliaseFiles -->
+        <test-method is-config="true" signature="launchEnv_Caller()[pri:0, instance:Uibank_Uipath.LoginActions_Caller@1de5f259]" started-at="2022-04-27T08:02:58 IST" name="launchEnv_Caller" finished-at="2022-04-27T08:03:05 IST" duration-ms="6338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchEnv_Caller -->
+        <test-method signature="LoignAcrtionsCaller()[pri:0, instance:Uibank_Uipath.LoginActions_Caller@1de5f259]" started-at="2022-04-27T08:03:05 IST" name="LoignAcrtionsCaller" finished-at="2022-04-27T08:03:11 IST" duration-ms="6797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoignAcrtionsCaller -->
+        <test-method is-config="true" signature="closingBrowser()[pri:0, instance:Uibank_Uipath.LoginActions_Caller@1de5f259]" started-at="2022-04-27T08:03:11 IST" name="closingBrowser" finished-at="2022-04-27T08:03:13 IST" duration-ms="1363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingBrowser -->
+        <test-method is-config="true" signature="FLushReports()[pri:0, instance:Uibank_Uipath.LoginActions_Caller@1de5f259]" started-at="2022-04-27T08:04:01 IST" name="FLushReports" finished-at="2022-04-27T08:04:01 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FLushReports -->
+      </class> <!-- Uibank_Uipath.LoginActions_Caller -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

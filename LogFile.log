@@ -1,0 +1,814 @@
+[INFO] [08_04_2022 08:34] *******************   started  Testing the LogFile********************** here
+[INFO] [08_04_2022 08:34] ----------------------------------------------------------------------------
+[INFO] [08_04_2022 08:34] Step no. 1    Step 1 is printing
+[INFO] [08_04_2022 08:34] Step no. 2    Step 2 is printing
+[INFO] [08_04_2022 08:34] Step no. 3    Step 3 is printing 
+[INFO] [08_04_2022 08:34] Step no. 4    Step 4 is printing
+[INFO] [08_04_2022 08:34] Step no. 5    Step 5 is printing
+[INFO] [08_04_2022 08:34] #######################################################################################
+[INFO] [08_04_2022 08:36] *******************   started  Testing the LogFile********************** here
+[INFO] [08_04_2022 08:36] ----------------------------------------------------------------------------
+[INFO] [08_04_2022 08:36] Step no. 1    Step 1 is printing
+[INFO] [08_04_2022 08:36] Step no. 2    Step 2 is printing
+[INFO] [08_04_2022 08:36] Step no. 3    Step 3 is printing 
+[INFO] [08_04_2022 08:36] Step no. 4    Step 4 is printing
+[INFO] [08_04_2022 08:36] Step no. 5    Step 5 is printing
+[INFO] [08_04_2022 08:36] #######################################################################################
+[INFO] [08_04_2022 08:36]                                                                                        
+[INFO] [22_04_2022 08:11]     2022/04/22 08:11:03
+[INFO] [22_04_2022 08:11]     0422081103
+[INFO] [22_04_2022 08:13]     2022/04/22 08:13:01
+[INFO] [22_04_2022 08:13]     0422081301
+[INFO] [23_04_2022 07:33]     2022/04/23 07:33:21
+[INFO] [23_04_2022 07:33]     0423073321
+[INFO] [23_04_2022 07:38]     2022/04/23 07:38:37
+[INFO] [23_04_2022 07:38]     0423073837
+[INFO] [23_04_2022 07:40]     2022/04/23 07:40:49
+[INFO] [23_04_2022 07:40]     0423074049
+[INFO] [23_04_2022 07:47]     2022/04/23 07:47:55
+[INFO] [23_04_2022 07:47]     0423074755
+[INFO] [23_04_2022 07:47] *******************   started  Login Actions********************** here
+[INFO] [23_04_2022 07:47] ----------------------------------------------------------------------------
+[INFO] [23_04_2022 07:47]     Launching browser chrome
+[INFO] [23_04_2022 07:48]     failing launching Browser
+[INFO] [23_04_2022 07:48]     Closing Browser
+[INFO] [23_04_2022 07:48] LoginActions    Peforming Login actions
+[INFO] [23_04_2022 07:48]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [23_04_2022 07:48] Login Actions    Login actions faild due to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.sendKeys(java.lang.CharSequence[])" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [23_04_2022 07:48]     Closing Browser
+[INFO] [23_04_2022 07:55]     2022/04/23 07:55:53
+[INFO] [23_04_2022 07:55]     0423075553
+[INFO] [23_04_2022 07:55] *******************   started  Login Actions********************** here
+[INFO] [23_04_2022 07:55] ----------------------------------------------------------------------------
+[INFO] [23_04_2022 07:55]     Launching browser chrome
+[INFO] [23_04_2022 07:56]     Navigating to URL https://uibank.uipath.com/
+[INFO] [23_04_2022 07:56] LoginActions    Peforming Login actions
+[INFO] [23_04_2022 07:56]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [23_04_2022 07:56]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [23_04_2022 07:56]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [23_04_2022 07:56]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [23_04_2022 07:56]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [23_04_2022 07:56]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [23_04_2022 07:56] LoginActions    Login Actions done successfully
+[INFO] [23_04_2022 07:56]     Closing Browser
+[INFO] [25_04_2022 07:09]     2022/04/25 07:09:05
+[INFO] [25_04_2022 07:09]     0425070905
+[INFO] [25_04_2022 07:09] *******************   started  Login Actions********************** here
+[INFO] [25_04_2022 07:09] ----------------------------------------------------------------------------
+[INFO] [25_04_2022 07:09]     Launching browser chrome
+[INFO] [25_04_2022 07:09]     failing launching Browser
+[INFO] [25_04_2022 07:10]     2022/04/25 07:10:41
+[INFO] [25_04_2022 07:10]     0425071041
+[INFO] [25_04_2022 07:10] *******************   started  Login Actions********************** here
+[INFO] [25_04_2022 07:10] ----------------------------------------------------------------------------
+[INFO] [25_04_2022 07:10]     Launching browser chrome
+[INFO] [25_04_2022 07:10]     Navigating to URL https://uibank.uipath.com/
+[INFO] [25_04_2022 07:10] LoginActions    Peforming Login actions
+[INFO] [25_04_2022 07:10]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [25_04_2022 07:10]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [25_04_2022 07:10]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [25_04_2022 07:10]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [25_04_2022 07:10]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [25_04_2022 07:10]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [25_04_2022 07:10] LoginActions    Login Actions done successfully
+[INFO] [25_04_2022 07:10]     Closing Browser
+[INFO] [25_04_2022 07:18]     2022/04/25 07:18:01
+[INFO] [25_04_2022 07:18]     0425071801
+[INFO] [25_04_2022 07:18] *******************   started  Login Actions********************** here
+[INFO] [25_04_2022 07:18] ----------------------------------------------------------------------------
+[INFO] [25_04_2022 07:18]     Launching browser chrome
+[INFO] [25_04_2022 07:18]     Navigating to URL https://uibank.uipath.com/
+[INFO] [25_04_2022 07:18] LoginActions    Peforming Login actions
+[INFO] [25_04_2022 07:18]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [25_04_2022 07:18]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [25_04_2022 07:18]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [25_04_2022 07:18]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [25_04_2022 07:18]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [25_04_2022 07:18]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [25_04_2022 07:18] LoginActions    Login Actions done successfully
+[INFO] [25_04_2022 07:18]     Closing Browser
+[INFO] [26_04_2022 07:57]     2022/04/26 07:57:15
+[INFO] [26_04_2022 07:57]     0426075715
+[INFO] [26_04_2022 07:58]     2022/04/26 07:58:51
+[INFO] [26_04_2022 07:58]     0426075851
+[INFO] [26_04_2022 08:01]     2022/04/26 08:01:01
+[INFO] [26_04_2022 08:01]     0426080101
+[INFO] [26_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:01]     Launching browser chrome
+[INFO] [26_04_2022 08:01]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:01] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:01]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:01]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:01]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:01]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:01]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:01]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:01] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:01]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [26_04_2022 08:01]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [26_04_2022 08:01]     Closing Browser
+[INFO] [26_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:01]     Launching browser chrome
+[INFO] [26_04_2022 08:01]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:01] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:01] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:01]     Closing Browser
+[INFO] [26_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:01]     Launching browser chrome
+[INFO] [26_04_2022 08:01]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:01] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:01] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:01]     Closing Browser
+[INFO] [26_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:01]     Launching browser chrome
+[INFO] [26_04_2022 08:01]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:01] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:01] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:01]     Closing Browser
+[INFO] [26_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:01]     Launching browser chrome
+[INFO] [26_04_2022 08:01]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:01] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:01] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:01]     Closing Browser
+[INFO] [26_04_2022 08:03]     2022/04/26 08:03:38
+[INFO] [26_04_2022 08:03]     0426080338
+[INFO] [26_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:03]     Launching browser chrome
+[INFO] [26_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:03] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:03]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:03]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:03]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:03]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:03]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:03]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:03] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:03]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [26_04_2022 08:03]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [26_04_2022 08:03] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [26_04_2022 08:03] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:03]     Closing Browser
+[INFO] [26_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:03]     Launching browser chrome
+[INFO] [26_04_2022 08:04]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:04] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:04]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:04]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:04]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:04]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:04]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:04]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:04] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:04]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [26_04_2022 08:04]     Locaters not matched
+[INFO] [26_04_2022 08:04] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [26_04_2022 08:04] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:04]     Closing Browser
+[INFO] [26_04_2022 08:04] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:04] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:04]     Launching browser chrome
+[INFO] [26_04_2022 08:04]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:04] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:04] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:04]     Closing Browser
+[INFO] [26_04_2022 08:04] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:04] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:04]     Launching browser chrome
+[INFO] [26_04_2022 08:04]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:04] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:04] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:04]     Closing Browser
+[INFO] [26_04_2022 08:04] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:04] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:04]     Launching browser chrome
+[INFO] [26_04_2022 08:04]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:04] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:04] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:04]     Closing Browser
+[INFO] [26_04_2022 08:09]     2022/04/26 08:09:50
+[INFO] [26_04_2022 08:09]     0426080950
+[INFO] [26_04_2022 08:09] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:09] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:09]     Launching browser chrome
+[INFO] [26_04_2022 08:09]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:09] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:09]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:09]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:10]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:10]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:10]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:10]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:10] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:10]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [26_04_2022 08:10]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [26_04_2022 08:10] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [26_04_2022 08:10] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:10]     Closing Browser
+[INFO] [26_04_2022 08:10] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:10] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:10]     Launching browser chrome
+[INFO] [26_04_2022 08:10]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:10] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:10]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:10]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:10]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:10]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:10]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:10]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:10] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:10]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [26_04_2022 08:10]     Locaters not matched
+[INFO] [26_04_2022 08:10] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [26_04_2022 08:10] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:10]     Closing Browser
+[INFO] [26_04_2022 08:10] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:10] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:10]     Launching browser chrome
+[INFO] [26_04_2022 08:10]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:10] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:10] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:10]     Closing Browser
+[INFO] [26_04_2022 08:10] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:10] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:10]     Launching browser chrome
+[INFO] [26_04_2022 08:10]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:10] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:10] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:10]     Closing Browser
+[INFO] [26_04_2022 08:10] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:10] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:10]     Launching browser chrome
+[INFO] [26_04_2022 08:10]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:10] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:10] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:10]     Closing Browser
+[INFO] [26_04_2022 08:11]     2022/04/26 08:11:51
+[INFO] [26_04_2022 08:11]     0426081151
+[INFO] [26_04_2022 08:11] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:11] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:11]     Launching browser chrome
+[INFO] [26_04_2022 08:11]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:11] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:11]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:12]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:12]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:12]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:12]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:12]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:12] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:12]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [26_04_2022 08:12]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [26_04_2022 08:12] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [26_04_2022 08:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:12]     Closing Browser
+[INFO] [26_04_2022 08:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:12]     Launching browser chrome
+[INFO] [26_04_2022 08:12]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:12] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 08:12]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 08:12]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 08:12]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 08:12]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 08:12]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 08:12]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 08:12] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 08:12]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [26_04_2022 08:12]     Locaters not matched
+[INFO] [26_04_2022 08:12] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [26_04_2022 08:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:12]     Closing Browser
+[INFO] [26_04_2022 08:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:12]     Launching browser chrome
+[INFO] [26_04_2022 08:12]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:12] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:12]     Closing Browser
+[INFO] [26_04_2022 08:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:12]     Launching browser chrome
+[INFO] [26_04_2022 08:12]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:12] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:12]     Closing Browser
+[INFO] [26_04_2022 08:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 08:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 08:12]     Launching browser chrome
+[INFO] [26_04_2022 08:12]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 08:12] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 08:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 08:12]     Closing Browser
+[INFO] [26_04_2022 09:12]     2022/04/26 09:12:34
+[INFO] [26_04_2022 09:12]     0426091234
+[INFO] [26_04_2022 09:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 09:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 09:12]     Launching browser chrome
+[INFO] [26_04_2022 09:12]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 09:12] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 09:12]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 09:12]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 09:12]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 09:12]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 09:12]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 09:12]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 09:12] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 09:12]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [26_04_2022 09:12]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [26_04_2022 09:12] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [26_04_2022 09:12] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 09:12]     Closing Browser
+[INFO] [26_04_2022 09:12] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 09:12] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 09:12]     Launching browser chrome
+[INFO] [26_04_2022 09:13]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 09:13] LoginActions    Peforming Login actions
+[INFO] [26_04_2022 09:13]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [26_04_2022 09:13]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [26_04_2022 09:13]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [26_04_2022 09:13]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [26_04_2022 09:13]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [26_04_2022 09:13]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [26_04_2022 09:13] LoginActions    Login Actions done successfully
+[INFO] [26_04_2022 09:13]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [26_04_2022 09:13]     Locaters not matched
+[INFO] [26_04_2022 09:13] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [26_04_2022 09:13] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 09:13]     Closing Browser
+[INFO] [26_04_2022 09:13] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 09:13] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 09:13]     Launching browser chrome
+[INFO] [26_04_2022 09:13]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 09:13] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 09:13] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 09:13]     Closing Browser
+[INFO] [26_04_2022 09:13] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 09:13] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 09:13]     Launching browser chrome
+[INFO] [26_04_2022 09:13]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 09:13] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 09:13] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 09:13]     Closing Browser
+[INFO] [26_04_2022 09:13] *******************   started  Login Actions********************** here
+[INFO] [26_04_2022 09:13] ----------------------------------------------------------------------------
+[INFO] [26_04_2022 09:13]     Launching browser chrome
+[INFO] [26_04_2022 09:13]     Navigating to URL https://uibank.uipath.com/
+[INFO] [26_04_2022 09:13] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [26_04_2022 09:13] Login    Login actions for valid or invalid data executed successfully
+[INFO] [26_04_2022 09:13]     Closing Browser
+[INFO] [27_04_2022 07:14]     2022/04/27 07:14:35
+[INFO] [27_04_2022 07:14]     0427071435
+[INFO] [27_04_2022 07:14] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 07:14] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 07:14]     Launching browser chrome
+[INFO] [27_04_2022 07:14]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 07:14] LoginActions    Peforming Login actions
+[INFO] [27_04_2022 07:14]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [27_04_2022 07:14]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [27_04_2022 07:14]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [27_04_2022 07:14]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [27_04_2022 07:14]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [27_04_2022 07:14]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [27_04_2022 07:14] LoginActions    Login Actions done successfully
+[INFO] [27_04_2022 07:14]     Closing Browser
+[INFO] [27_04_2022 07:59]     2022/04/27 07:59:26
+[INFO] [27_04_2022 07:59]     0427075926
+[INFO] [27_04_2022 07:59] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 07:59] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 07:59]     Launching browser chrome
+[INFO] [27_04_2022 07:59]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 07:59] LoginActions    Peforming Login actions
+[INFO] [27_04_2022 07:59]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [27_04_2022 07:59]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [27_04_2022 07:59]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [27_04_2022 07:59]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [27_04_2022 07:59]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [27_04_2022 07:59]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [27_04_2022 07:59] LoginActions    Login Actions done successfully
+[INFO] [27_04_2022 07:59]     Closing Browser
+[INFO] [27_04_2022 08:02]     2022/04/27 08:02:57
+[INFO] [27_04_2022 08:02]     0427080257
+[INFO] [27_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:02]     Launching browser chrome
+[INFO] [27_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:03] LoginActions    Peforming Login actions
+[INFO] [27_04_2022 08:03]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [27_04_2022 08:03]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [27_04_2022 08:03]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [27_04_2022 08:03]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [27_04_2022 08:03] LoginActions    Login Actions done successfully
+[INFO] [27_04_2022 08:03]     Closing Browser
+[INFO] [27_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:03]     Launching browser chrome
+[INFO] [27_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:03] LoginActions    Peforming Login actions
+[INFO] [27_04_2022 08:03]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [27_04_2022 08:03]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [27_04_2022 08:03]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [27_04_2022 08:03]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [27_04_2022 08:03] LoginActions    Login Actions done successfully
+[INFO] [27_04_2022 08:03]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [27_04_2022 08:03]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [27_04_2022 08:03] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [27_04_2022 08:03] Login    Login actions for valid or invalid data executed successfully
+[INFO] [27_04_2022 08:03]     Closing Browser
+[INFO] [27_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:03]     Launching browser chrome
+[INFO] [27_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:03] LoginActions    Peforming Login actions
+[INFO] [27_04_2022 08:03]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [27_04_2022 08:03]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [27_04_2022 08:03]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [27_04_2022 08:03]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [27_04_2022 08:03]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [27_04_2022 08:03] LoginActions    Login Actions done successfully
+[INFO] [27_04_2022 08:03]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [27_04_2022 08:03]     Locaters not matched
+[INFO] [27_04_2022 08:03] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [27_04_2022 08:03] Login    Login actions for valid or invalid data executed successfully
+[INFO] [27_04_2022 08:03]     Closing Browser
+[INFO] [27_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:03]     Launching browser chrome
+[INFO] [27_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:03] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [27_04_2022 08:03] Login    Login actions for valid or invalid data executed successfully
+[INFO] [27_04_2022 08:03]     Closing Browser
+[INFO] [27_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:03]     Launching browser chrome
+[INFO] [27_04_2022 08:03]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:03] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [27_04_2022 08:03] Login    Login actions for valid or invalid data executed successfully
+[INFO] [27_04_2022 08:03]     Closing Browser
+[INFO] [27_04_2022 08:03] *******************   started  Login Actions********************** here
+[INFO] [27_04_2022 08:03] ----------------------------------------------------------------------------
+[INFO] [27_04_2022 08:03]     Launching browser chrome
+[INFO] [27_04_2022 08:04]     Navigating to URL https://uibank.uipath.com/
+[INFO] [27_04_2022 08:04] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [27_04_2022 08:04] Login    Login actions for valid or invalid data executed successfully
+[INFO] [27_04_2022 08:04]     Closing Browser
+[INFO] [28_04_2022 07:32]     2022/04/28 07:32:59
+[INFO] [28_04_2022 07:32]     0428073259
+[INFO] [28_04_2022 07:33] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:33] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:33]     Launching browser chrome
+[INFO] [28_04_2022 07:33]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:33] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:33]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:33]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:33]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:33]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:33] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:33]     Closing Browser
+[INFO] [28_04_2022 07:33] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:33] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:33]     Launching browser chrome
+[INFO] [28_04_2022 07:33]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:33] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:33]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:33]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:33]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:33]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:33] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:33]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [28_04_2022 07:33]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [28_04_2022 07:33] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [28_04_2022 07:33] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:33]     Closing Browser
+[INFO] [28_04_2022 07:33] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:33] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:33]     Launching browser chrome
+[INFO] [28_04_2022 07:33]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:33] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:33]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:33]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:33]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:33]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:33]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:33] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:33]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [28_04_2022 07:33]     Locaters not matched
+[INFO] [28_04_2022 07:33] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [28_04_2022 07:33] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:33]     Closing Browser
+[INFO] [28_04_2022 07:33] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:33] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:33]     Launching browser chrome
+[INFO] [28_04_2022 07:33]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:33] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:33] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:33]     Closing Browser
+[INFO] [28_04_2022 07:33] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:33] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:33]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:34] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:34] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:34] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:34]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:34] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:34] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:34] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:34]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:34]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:34]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:34]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:34]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:34] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:34] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:34] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:34]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:34]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:34]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:34]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:34]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:34] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:34]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [28_04_2022 07:34]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [28_04_2022 07:34] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [28_04_2022 07:34] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:34] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:34] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:34]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:34]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:34]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:34]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:34]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:34]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:34] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:34]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [28_04_2022 07:34]     Locaters not matched
+[INFO] [28_04_2022 07:34] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException: Cannot invoke "org.openqa.selenium.WebElement.getText()" because the return value of "com.magnitia.Batch29_Utility.Utility.getLocater(String)" is null
+[INFO] [28_04_2022 07:34] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:34] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:34] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:34]     Launching browser chrome
+[INFO] [28_04_2022 07:34]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:34] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:34] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:34]     Closing Browser
+[INFO] [28_04_2022 07:35] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:35] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:35]     Launching browser chrome
+[INFO] [28_04_2022 07:35]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:35] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:35] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:35]     Closing Browser
+[INFO] [28_04_2022 07:35] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:35] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:35]     Launching browser chrome
+[INFO] [28_04_2022 07:35]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:35] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:35] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:35]     Closing Browser
+[INFO] [28_04_2022 07:56]     2022/04/28 07:56:46
+[INFO] [28_04_2022 07:56]     0428075646
+[INFO] [28_04_2022 07:56] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:56] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:56]     Launching browser chrome
+[INFO] [28_04_2022 07:56]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:56] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:56]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:56]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:56]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:56]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:56]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:57]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:57] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 07:57] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:57] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:57]     Launching browser chrome
+[INFO] [28_04_2022 07:57]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:57] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:57]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:57]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:57]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:57]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:57]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:57]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:57] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:57]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [28_04_2022 07:57]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [28_04_2022 07:57] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [28_04_2022 07:57] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 07:57] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:57] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:57]     Launching browser chrome
+[INFO] [28_04_2022 07:57]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:57] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 07:57]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 07:57]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 07:57]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 07:57]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 07:57]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 07:57]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 07:57] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 07:57]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [28_04_2022 07:57]     Locaters not matched
+[INFO] [28_04_2022 07:57] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException
+[INFO] [28_04_2022 07:57] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 07:57] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:57] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:57]     Launching browser chrome
+[INFO] [28_04_2022 07:57]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:57] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:57] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 07:57] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:57] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:57]     Launching browser chrome
+[INFO] [28_04_2022 07:57]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:57] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:57] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 07:57] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 07:57] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 07:57]     Launching browser chrome
+[INFO] [28_04_2022 07:57]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 07:57] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 07:57] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 07:57]     Closing Browser
+[INFO] [28_04_2022 08:01]     2022/04/28 08:01:54
+[INFO] [28_04_2022 08:01]     0428080154
+[INFO] [28_04_2022 08:01] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:01] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:01]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 08:02]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 08:02]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 08:02]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 08:02]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 08:02] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [28_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:02]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 08:02]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 08:02]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 08:02]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 08:02]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 08:02] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 08:02]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [28_04_2022 08:02]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [28_04_2022 08:02] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [28_04_2022 08:02] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [28_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:02]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] LoginActions    Peforming Login actions
+[INFO] [28_04_2022 08:02]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [28_04_2022 08:02]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [28_04_2022 08:02]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [28_04_2022 08:02]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [28_04_2022 08:02]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [28_04_2022 08:02] LoginActions    Login Actions done successfully
+[INFO] [28_04_2022 08:02]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [28_04_2022 08:02]     Locaters not matched
+[INFO] [28_04_2022 08:02] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException
+[INFO] [28_04_2022 08:02] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [28_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:02]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 08:02] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [28_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:02]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 08:02] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [28_04_2022 08:02] *******************   started  Login Actions********************** here
+[INFO] [28_04_2022 08:02] ----------------------------------------------------------------------------
+[INFO] [28_04_2022 08:02]     Launching browser chrome
+[INFO] [28_04_2022 08:02]     Navigating to URL https://uibank.uipath.com/
+[INFO] [28_04_2022 08:02] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [28_04_2022 08:02] Login    Login actions for valid or invalid data executed successfully
+[INFO] [28_04_2022 08:02]     Closing Browser
+[INFO] [10_05_2022 08:06]     2022/05/10 08:06:00
+[INFO] [10_05_2022 08:06]     0510080600
+[INFO] [10_05_2022 08:06] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:06] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:06]     Launching browser chrome
+[INFO] [10_05_2022 08:06]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:06] LoginActions    Peforming Login actions
+[INFO] [10_05_2022 08:06]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [10_05_2022 08:06]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [10_05_2022 08:06]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [10_05_2022 08:06]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [10_05_2022 08:06] LoginActions    Login Actions done successfully
+[INFO] [10_05_2022 08:06]     Closing Browser
+[INFO] [10_05_2022 08:06] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:06] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:06]     Launching browser chrome
+[INFO] [10_05_2022 08:06]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:06] LoginActions    Peforming Login actions
+[INFO] [10_05_2022 08:06]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [10_05_2022 08:06]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [10_05_2022 08:06]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [10_05_2022 08:06]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [10_05_2022 08:06] LoginActions    Login Actions done successfully
+[INFO] [10_05_2022 08:06]      Locator is   :Home_welcome_message_xpathLoc value is :  (//*[@class='text-white'])[1]
+[INFO] [10_05_2022 08:06]     Searching locater '(//*[@class='text-white'])[1]' and locater type 'Home_welcome_message_xpath'
+[INFO] [10_05_2022 08:06] Logain Data driven    Login Data Driven Test Case Executed successfully
+[INFO] [10_05_2022 08:06] Login    Login actions for valid or invalid data executed successfully
+[INFO] [10_05_2022 08:06]     Closing Browser
+[INFO] [10_05_2022 08:06] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:06] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:06]     Launching browser chrome
+[INFO] [10_05_2022 08:06]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:06] LoginActions    Peforming Login actions
+[INFO] [10_05_2022 08:06]      Locator is   :Login_userName_txtbox_idLoc value is :  username
+[INFO] [10_05_2022 08:06]     Searching locater 'username' for locater Key 'Login_userName_txtbox_id'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_password_txtbox_xpathLoc value is :  //*[@name='password']
+[INFO] [10_05_2022 08:06]     Searching locater '//*[@name='password']' and locater type 'Login_password_txtbox_xpath'
+[INFO] [10_05_2022 08:06]      Locator is   :Login_submit_button_xpathLoc value is :  (//*[@type='submit'])[1]
+[INFO] [10_05_2022 08:06]     Searching locater '(//*[@type='submit'])[1]' and locater type 'Login_submit_button_xpath'
+[INFO] [10_05_2022 08:06] LoginActions    Login Actions done successfully
+[INFO] [10_05_2022 08:06]      Locator is   :Login_LoginFailed_message_xapthLoc value is :  //*[text() =' login failed ']
+[INFO] [10_05_2022 08:06]     Locaters not matched
+[INFO] [10_05_2022 08:06] Login Data driven     Login data driven test case failed duel to java.lang.NullPointerException
+[INFO] [10_05_2022 08:06] Login    Login actions for valid or invalid data executed successfully
+[INFO] [10_05_2022 08:06]     Closing Browser
+[INFO] [10_05_2022 08:06] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:06] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:06]     Launching browser chrome
+[INFO] [10_05_2022 08:06]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:06] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [10_05_2022 08:06] Login    Login actions for valid or invalid data executed successfully
+[INFO] [10_05_2022 08:06]     Closing Browser
+[INFO] [10_05_2022 08:06] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:06] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:06]     Launching browser chrome
+[INFO] [10_05_2022 08:07]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:07] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [10_05_2022 08:07] Login    Login actions for valid or invalid data executed successfully
+[INFO] [10_05_2022 08:07]     Closing Browser
+[INFO] [10_05_2022 08:07] *******************   started  Login Actions********************** here
+[INFO] [10_05_2022 08:07] ----------------------------------------------------------------------------
+[INFO] [10_05_2022 08:07]     Launching browser chrome
+[INFO] [10_05_2022 08:07]     Navigating to URL https://uibank.uipath.com/
+[INFO] [10_05_2022 08:07] Login with no run Mode    Login with no runmode is executing here...
+[INFO] [10_05_2022 08:07] Login    Login actions for valid or invalid data executed successfully
+[INFO] [10_05_2022 08:07]     Closing Browser
