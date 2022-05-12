@@ -21,8 +21,9 @@ import com.magnitia.Batch29_Utility.Utility;
 		   flag = false;
 		try {
 		//	Browser = "chrome";
-			Log.info("", "Launching browser " + Browser);
+			
 			Reports.info("Launching Browser","Launching browser : chrome");
+			System.out.println("abc");
 			if (Browser.equalsIgnoreCase("chrome")) {
 				System.setProperty("webdriver.chrome.driver", Constant.chromepath);
 				driver = new ChromeDriver();				
